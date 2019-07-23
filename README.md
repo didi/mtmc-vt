@@ -1,10 +1,21 @@
 # AI City Challenge 2019 Track1 MTMC Task
 The code is for AI City Challenge 2019 Track1, MTMC Vehicle Tracking.
 
-paper
+And we got the second place.
+
+[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Li_Spatio-temporal_Consistency_and_Hierarchical_Matching_for_Multi-Target_Multi-Camera_Vehicle_Tracking_CVPRW_2019_paper.pdf)
 
 ## Maintainers
 
+Peilun Li
+
+Guozhen Li
+
+Meiqi Lu
+
+Zhangxi Yan
+
+Youzeng Li
 
 ## Preparation
 
