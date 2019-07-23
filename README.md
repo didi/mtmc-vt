@@ -7,15 +7,7 @@ And we got the second place.
 
 ## Maintainers
 
-Peilun Li
-
-Guozhen Li
-
-Meiqi Lu
-
-Zhangxi Yan
-
-Youzeng Li
+Peilun Li, Guozhen Li, Meiqi Lu, Zhangxi Yan, Youzeng Li
 
 ## Preparation
 
