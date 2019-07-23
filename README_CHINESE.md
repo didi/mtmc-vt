@@ -1,14 +1,23 @@
 # AI City Challenge 2019 Track1 MTMC Task
 AI City Challenge 2019 赛道1的代码, 用于做跨摄像头车辆跟踪。
 
-框架图（待添加）
+我们最终取得了第二名的成绩。
 
-论文引用（待添加）
+[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Li_Spatio-temporal_Consistency_and_Hierarchical_Matching_for_Multi-Target_Multi-Camera_Vehicle_Tracking_CVPRW_2019_paper.pdf)
 
 ## Maintainers
 
-（待添加）
+李佩伦
 
+李国镇
+
+卢美奇
+
+严章熙
+
+李友增
+
+滴滴出行-车载事业部
 
 ## Preparation
 
